@@ -1,0 +1,19 @@
+{
+	"name": "sparkinit-profile",
+	"private": true,
+	"scripts": {
+		"deploy": "wrangler deploy",
+		"dev": "wrangler dev",
+		"start": "wrangler dev",
+		"test": "vitest",
+		"cf-typegen": "wrangler types"
+	},
+	"devDependencies": {
+		"@cloudflare/vitest-pool-workers": "^0.8.71",
+		"typescript": "^5.9.3",
+		"wrangler": "^4.42.0"
+	},
+	"dependencies": {
+		"hono": "^4.9.10"
+	}
+}

@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="assets/images/sparkinit.svg" alt="Sparkinit" width="100%" />
+  <img src="https://sparkinit.org/assets/profile.svg" alt="Sparkinit" width="100%" />
 </div>
